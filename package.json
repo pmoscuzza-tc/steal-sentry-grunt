@@ -12,5 +12,9 @@
   "dependencies": {
     "@sentry/browser": "^4.3.0",
     "steal": "^0.16.45"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "steal-tools": "^0.16.4"
   }
 }
